@@ -1,0 +1,24 @@
+{
+  "name": "learn-css",
+  "version": "0.0.1",
+  "description": "project for learning css and html",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/faner-father/learn-css.git"
+  },
+  "keywords": [
+    "css",
+    "html",
+    "learn"
+  ],
+  "author": "jacky fang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/faner-father/learn-css/issues"
+  },
+  "homepage": "https://github.com/faner-father/learn-css#readme"
+}
